@@ -1,0 +1,33 @@
+h1{
+    font-size: xx-large;
+    text-align: left;
+    color: hsl(347, 81%, 51%);
+}
+p{
+    font-size: larger;
+    text-align: left;
+    color: hsl(56, 89%, 49%);
+}
+body{
+    height: 100vh;
+    background-image: url(https://moringaschool.com/wp-content/uploads/2023/08/cyber_security-768x468.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    position: relative;
+}
+
+#title{
+    margin-top: 600px;
+    font-size: xx-large;
+}
+.image-stack_item image img{
+    position: relative;
+}
+.image-stack_item img{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 60px;
+}
+
